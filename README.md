@@ -25,5 +25,5 @@
 
 <h1></h1>
 <h3 align="center">📊 Statistics:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=usadowiony&show_icons=true&theme=github_dark&locale=en" alt="usadowiony" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usadowiony&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="usadowiony" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=usadowiony&show_icons=true&theme=github_dark&locale=en" alt="usadowiony" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usadowiony&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="usadowiony" /></p>
