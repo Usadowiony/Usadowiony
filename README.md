@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">🧰 Languages and Tools:</h2>
+<h3 align="center">🧰 Languages and Tools:</h3>
 <br />
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="55" alt="html5 logo"  />
