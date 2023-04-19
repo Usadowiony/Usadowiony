@@ -30,7 +30,7 @@
 </div>
 
 <h1></h1>
-<h2 align="center">📊 Statistics:</h2>
+<h3 align="center">📊 Statistics:</h3>
 <br />
 <h4 align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=usadowiony&show_icons=true&theme=github_dark&locale=en" alt="usadowiony" />
