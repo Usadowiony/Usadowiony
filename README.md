@@ -5,6 +5,7 @@
 
 <h4 align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wojciech-pietrzak-238a25262/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/arthurspk)](https://open.spotify.com/user/314azkzzqzuwxeawdousbrxyj5sy?si=659e403af929465c)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/343102969153060886)
 
