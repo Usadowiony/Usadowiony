@@ -3,7 +3,7 @@
 <p>I was interested in computer science from a very young age. Over time, I turned those interests into a full-time job. In the near future, I would like to become a junior front-end developer and constantly develop over time. I like to spend my free time productively, for example for weight lifting, or creating music or film content.</p>
 <p>At the moment I am studying at the <b>University of Economics and Computer Science in Krakow</b> 📚</p>
 
-<p>My latest project: <a href="https://github.com/Usadowiony/Darek-Pietrzak-Website">Darek Pietrzak Website</a></p>
+<p><b>My latest project:</b> <a href="https://github.com/Usadowiony/Darek-Pietrzak-Website">Darek Pietrzak Website</a></p>
 
 <h4 align="center">
 
